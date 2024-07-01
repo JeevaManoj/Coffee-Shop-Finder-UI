@@ -16,7 +16,7 @@ Run the following commands
 
 ### `npm start`
 
-4. This will start the server in the system
+4. This will start the development server in the localhost
 
 ### `npm run build`
 
